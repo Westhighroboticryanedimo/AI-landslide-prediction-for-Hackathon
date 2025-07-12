@@ -5,8 +5,8 @@ import sklearn.tree
 
 
 
-data = pandas.read_csv(r'C:\Users\pries\OneDrive\Desktop\Games\PythonPrograms\Face\Flood Model\WA_Soils.csv')
-flood_hazard_prediction = pandas.read_csv(r'C:\Users\pries\OneDrive\Desktop\Games\PythonPrograms\Face\Flood Model\ai_flood_predictions.csv')
+data = pandas.read_csv(r'AWSOMECOOLDATA.csv')
+flood_hazard_prediction = pandas.read_csv(r'ai_flood_predictions.csv')
 data = data.sample(frac=1, random_state=13)
 
 data = data[['SOIL_EROSION_POTNL', 'SOIL_FLOOD_HAZARD', 'SOIL_CONST_HAZARD', 'SOIL_SLP_MAX_PC', 'SOIL_PRECIP', 'SOIL_DRAIN_RATE','SOIL_LAYER_RESTR','SOIL_TXTR_MDFR','SOIL_ROOT_DPT','SOIL_ROCK_FRAG']]
