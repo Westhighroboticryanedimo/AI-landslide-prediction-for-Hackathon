@@ -1,2 +1,2 @@
 # AI landslide AI for Hackathon
- The AI lanslide prediction machine for Hack United V5
+ The AI landslide prediction machine for Hack United V5
