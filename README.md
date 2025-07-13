@@ -153,3 +153,8 @@ This project is for a hackathon called "United Hacks V5"
 
 For questions or improvements, please refer to the project documentation or create an issue in the repository.
 
+## Additional Info
+
+To get the map.py code to work, download the WA_Soils.py here -> https://drive.google.com/file/d/1La68gplaKxC1PmR2RleyolHCFdZJhfvO/view?usp=sharing
+
+
