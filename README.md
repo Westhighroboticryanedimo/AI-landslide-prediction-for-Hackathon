@@ -155,6 +155,6 @@ For questions or improvements, please refer to the project documentation or crea
 
 ## Additional Info
 
-To get the map.py code to work, download the WA_Soils.py here -> https://drive.google.com/file/d/1La68gplaKxC1PmR2RleyolHCFdZJhfvO/view?usp=sharing
+To get the map.py code to work, download the WA_Soils.zip here -> https://drive.google.com/file/d/1La68gplaKxC1PmR2RleyolHCFdZJhfvO/view?usp=sharing
 
 
